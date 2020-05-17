@@ -1,0 +1,22 @@
+.service {
+  background-image: linear-gradient(to bottom right, #97c74e, #2ab9a5);
+  color: white;
+  padding: 40px 25px;
+  font-family: "Roboto", sans-serif;
+}
+.service > .subtitle {
+  font-family: "Playfair Display", serif;
+  margin-bottom: 20px;
+}
+.service > .title {
+  font-family: "Poppins", sans-serif;
+}
+.service > .resume {
+  margin-bottom: 30px;
+}
+.service > .row {
+  margin-left: 0;
+}
+.service .item {
+  margin-bottom: 15px;
+}
