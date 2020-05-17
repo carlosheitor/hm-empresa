@@ -1,8 +1,11 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 .service {
   background-image: linear-gradient(to bottom right, #97c74e, #2ab9a5);
   color: white;
   padding: 40px 25px;
-  font-family: "Roboto", sans-serif;
+  margin-bottom: 50px;
 }
 .service > .subtitle {
   font-family: "Playfair Display", serif;
@@ -19,4 +22,25 @@
 }
 .service .item {
   margin-bottom: 15px;
+}
+.premium-service {
+  padding: 10px;
+}
+.premium-service > .subtitle {
+  font-family: "Playfair Display", serif;
+  color: #8f9397;
+  margin-bottom: 20px;
+}
+.premium-service > .title {
+  font-family: "Poppins", sans-serif;
+}
+.premium-service > .resume {
+  color: #8f9397;
+  margin-bottom: 60px;
+}
+figcaption > .card-title {
+  font-family: "Poppins", sans-serif;
+}
+figcaption > .card-text {
+  color: #8f9397;
 }
