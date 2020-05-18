@@ -44,3 +44,20 @@ figcaption > .card-title {
 figcaption > .card-text {
   color: #8f9397;
 }
+.portfolio > .title {
+  font-family: "Poppins", sans-serif;
+}
+.portfolio > .resume {
+  color: #8f9397;
+  margin-bottom: 60px;
+}
+.portfolio .card {
+  border: none;
+}
+.portfolio .card-title {
+  margin-bottom: 0.25rem;
+}
+.portfolio .card-body {
+  margin-top: 20px;
+  padding: 0;
+}
