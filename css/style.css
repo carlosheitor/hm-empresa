@@ -61,3 +61,25 @@ figcaption > .card-text {
   margin-top: 20px;
   padding: 0;
 }
+footer {
+  margin-top: 30px;
+  background-color: #f7f8f9;
+}
+footer > .logo {
+  padding-top: 40px;
+}
+footer > .resume {
+  color: #8f9397;
+  margin-bottom: 30px;
+}
+footer .address,
+footer .tel,
+footer .mail {
+  display: inline-block;
+  margin-left: 20px;
+  color: #8f9397;
+}
+.carousel {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
