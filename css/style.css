@@ -1,6 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+.carousel {
+  margin-top: 0 !important;
+}
 .service {
   background-image: linear-gradient(to bottom right, #97c74e, #2ab9a5);
   color: white;
